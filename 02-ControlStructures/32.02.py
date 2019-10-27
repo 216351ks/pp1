@@ -1,0 +1,1 @@
+print(input('Podaj dowolny ciąg znaków:')[::-1])
