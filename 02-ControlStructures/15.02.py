@@ -1,4 +1,4 @@
 x  = int(input( "Podaj liczbę:"))
 
-for y   in range(1,11):
-print(f' {n} x {x} = {n * x}')
+for n in range(1,11):
+    print(f' {x} x {n} = {x * n}')
