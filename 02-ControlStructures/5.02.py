@@ -2,4 +2,8 @@
 
 wiek = int(input('Podaj swój wiek: '))
 
-print("Dorosły" if wiek >= 18 else "Niedorosły")
+if wiek  >= 18:
+    print('jesteś osobą dorosłą')
+    
+else:
+    print('masz mniej niż 18 lat' )
